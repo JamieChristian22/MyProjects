@@ -1,0 +1,8 @@
+patient_id,case_id,activity_date,manual_minutes,automated_minutes,activity_type
+1001,20001,2025-11-03,30,5,PriorAuthReview
+1002,20002,2025-11-03,45,10,EligibilityCheck
+1003,20003,2025-11-04,60,15,DischargeCoordination
+1001,20001,2025-11-10,25,5,PriorAuthReview
+1004,20004,2025-11-10,40,12,CaseFollowUp
+
+---
